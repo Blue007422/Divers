@@ -93,8 +93,8 @@ namespace CSharpContestProject
             
             int i = 0;
             int j = 0;
-            int maxI = chatons.Count - 1;
-            int maxJ = enemyChatons.Length - 1;
+            int maxI = chatons.Count;
+            int maxJ = enemyChatons.Length;
 
             while(true)
             {
